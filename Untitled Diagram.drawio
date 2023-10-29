@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-29T17:32:56.681Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15" etag="EbmWkvvo9sEdht050IOo" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-29T17:35:24.061Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15" etag="dX6_L8ETLJRffQjK8C0u" version="22.0.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1159" dy="833" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -352,7 +352,7 @@
           <mxGeometry y="126" width="210" height="26" as="geometry" />
         </mxCell>
         <mxCell id="bMznROI8uIrrXHA2IiII-193" value="purchased by" style="endArrow=diamondThin;html=1;endSize=12;startArrow=none;startSize=14;startFill=0;edgeStyle=orthogonalEdgeStyle;rounded=0;endFill=0;" edge="1" source="bMznROI8uIrrXHA2IiII-179" target="bMznROI8uIrrXHA2IiII-187" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-0.1894" y="-24" relative="1" as="geometry">
+          <mxGeometry x="-0.3245" y="-14" relative="1" as="geometry">
             <mxPoint x="660" y="1025" as="sourcePoint" />
             <mxPoint x="990" y="1025" as="targetPoint" />
             <Array as="points">
@@ -445,12 +445,12 @@
         </mxCell>
         <mxCell id="bMznROI8uIrrXHA2IiII-231" value="product" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;" connectable="0" vertex="1" parent="bMznROI8uIrrXHA2IiII-230">
           <mxGeometry x="-1" relative="1" as="geometry">
-            <mxPoint x="5" y="18" as="offset" />
+            <mxPoint x="5" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="bMznROI8uIrrXHA2IiII-232" value="purchase" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="bMznROI8uIrrXHA2IiII-230">
           <mxGeometry x="1" relative="1" as="geometry">
-            <mxPoint x="-4" y="20" as="offset" />
+            <mxPoint x="-4" y="-5" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="bMznROI8uIrrXHA2IiII-233" value="" style="endArrow=open;html=1;endSize=12;startArrow=diamondThin;startSize=14;startFill=1;edgeStyle=orthogonalEdgeStyle;rounded=0;" edge="1" source="bMznROI8uIrrXHA2IiII-187" target="bMznROI8uIrrXHA2IiII-205" parent="WIyWlLk6GJQsqaUBKTNV-1">
